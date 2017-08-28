@@ -1,0 +1,30 @@
+#main .xsk-hidden {
+	display:none;
+}
+#main .xsk-invisible {
+	visibility:hidden;
+}
+
+#main .xsk {
+}
+#main .xsk-ux {
+}
+#main .xsk-ux-pane, #main.xsk-ux-pane {
+}
+#main .xsk-ux-stack, #main.xsk-ux-stack {
+	width:100%;
+	height:100%;
+	position:relative;
+}
+#main .xsk-ux-container {
+}
+#main .xsk-ux-button {
+}
+#main .xsk-ux-scrubber {
+}
+#main .xsk-ux-form {
+}
+#main .xsk-ux-input {
+}
+#main .xsk-ux-display {
+}
